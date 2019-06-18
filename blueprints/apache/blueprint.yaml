@@ -1,5 +1,5 @@
 version: 1
-name: Basic IaaS With Inputs
+name: Basic Apache
 formatVersion: 1
 inputs:
   image:
